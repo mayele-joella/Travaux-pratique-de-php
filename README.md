@@ -1,9 +1,9 @@
-===========================================================
+
 Système de caisse informatisé en PHP procédural
-===========================================================
+
 
 1. PRÉREQUIS
-------------
+
 - Serveur local XAMPP ou WAMP installé
 - PHP 7.4 ou supérieur
 - Navigateur web moderne (Chrome, Edge, Firefox)
@@ -11,7 +11,7 @@ Système de caisse informatisé en PHP procédural
 - Connexion Internet pour charger la bibliothèque QuaggaJS
 
 2. INSTALLATION
----------------
+
 1. Copier le dossier du projet dans le répertoire htdocs (XAMPP) ou www (WAMP).
    Exemple : C:\xampp\htdocs\facturation
 
@@ -27,7 +27,7 @@ Système de caisse informatisé en PHP procédural
    http://localhost/facturation/
 
 3. STRUCTURE DU PROJET
-----------------------
+
 - config/ : paramètres globaux (TVA, chemins des fichiers)
 - auth/ : login, logout, gestion des sessions
 - produits/ : enregistrement et liste des produits
@@ -39,7 +39,7 @@ Système de caisse informatisé en PHP procédural
 - rapports/ : rapports journaliers et mensuels
 
 4. UTILISATION
---------------
+
 1. Connexion :
    - Identifiant et mot de passe définis dans utilisateurs.json
    - Rôles disponibles : caissier, manager, superadmin
