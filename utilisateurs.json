@@ -1,0 +1,18 @@
+[
+  {
+    "identifiant": "admin",
+    "mot_de_passe": "$2y$10$G4lNoUs0q40VkIV0VF.mORnPGxkH258zRReBViKzIqFvxRT5fHhK",
+    "role": "super_admin",
+    "nom_complet": "Administrateur Principal",
+    "date_creation": "2026-04-29",
+    "actif": true
+  },
+  {
+    "identifiant": "joella",
+    "mot_de_passe": "$2y$10$AUTREHASHGENEREPOURjoella123",
+    "role": "caissier",
+    "nom_complet": "Joella",
+    "date_creation": "2026-04-29",
+    "actif": true
+  }
+]

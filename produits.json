@@ -1,0 +1,15 @@
+[
+  {
+    "code_barre": "P001",
+    "nom": "Stylo",
+    "prix_unitaire_ht": 1.5,
+    "quantite_stock": 100
+  },
+  {
+    "code_barre": "P002",
+    "nom": "Cahier",
+    "prix_unitaire_ht": 2.0,
+    "quantite_stock": 50
+  }
+]
+
